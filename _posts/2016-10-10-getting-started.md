@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Surviving JackHammer"
+title: "Spinning Money"
 author: "Felipe Magagnin"
 categories: documentation
 tags: [documentation,sample]
