@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "The Surviving JackHammer"
+author: "Felipe Magagnin"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg
